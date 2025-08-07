@@ -52,7 +52,7 @@ technical_background:
   
 currently_learning: ["TensorFlow"]
 2025 Goals: ["Create 15 Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Working Out", "Gaming", "Cinema", "Golfing"]
+hobbies: ["Working Out", "Gaming", "Cinema", "Golf"]
 ```
   
 ---  
